@@ -1,0 +1,25 @@
+## ****ES2015 Global Constants****
+
+```jsx
+/* Write an ES2015 Version */
+```
+Let PI = 3.14;
+
+
+## **Quiz**
+
+- What is the difference between ***var*** and ***let***?
+
+The main differences between VAR and LET include the fact that VAR is function-scoped while LET is block-scoped and that VAR can be redeclared while
+LET cannot be. 
+
+- What is the difference between **var** and ***const***?
+Unlike VAR, CONST cannot be rassigned on redeclared. CONST is also block-scoped while VAR if function-scoped.
+
+
+- What is the difference between **let** and **const**?
+LET AND CONST are very similar except for the fact that CONST cannot be reassigned while LET can be. 
+
+- What is hoisting?
+
+Hoisting is the default behavior of moving all the declarations at the top of the scope before code execution. 
